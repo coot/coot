@@ -1,4 +1,5 @@
-Coot's Functional Programming Blog
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge)
+# Coot's Functional Programming Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Typed Protocols @ Haskell Love](https://coot.me/posts/typed-protocols-at-haskell-love.html)
