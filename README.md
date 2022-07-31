@@ -2,6 +2,8 @@
 # Coot's Functional Programming Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Build haddock documentation of a cabal project](https://coot.me/posts/cabal-haddock-project.html)
+- [A remark on lazy ST monad and MonadFix instance for IOSim](https://coot.me/posts/lazy-st.html)
 - [Typed Protocols @ Haskell Love](https://coot.me/posts/typed-protocols-at-haskell-love.html)
 - [Strictness of foldr&#39; from containers package](https://coot.me/posts/containers-strict-foldr.html)
 - [Haddock: better support for multiple components](https://coot.me/posts/haddock-multi-component-support.html)
